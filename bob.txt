@@ -1,1 +1,4 @@
-"bob arbejde samme med alice." 
+bob arbejde samme med alice.
+bob møder før alice mandag, onsdag og torsdag.
+det er de begge godt tilfreds med.
+
