@@ -1,1 +1,2 @@
 "Dette er en f‘lles fil, som alle kan skrive i." 
+bob: Jeg tror git er bedst.
