@@ -1,0 +1,1 @@
+"Dette er en f‘lles fil, som alle kan skrive i." 
